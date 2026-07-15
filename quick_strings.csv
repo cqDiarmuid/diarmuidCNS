@@ -3256,10 +3256,10 @@ qstr_Magic_resistance_now_4|当 前 魔 法 抗 性 4+
 qstr_Magic_resistance_now_3|当 前 魔 法 抗 性 3+
 qstr_Magic_resistance_now_2|当 前 魔 法 抗 性 2+
 qstr_{s8}^You_are_now_a_p|{s8}^你 现 在 是 生 命 魔 法 的 修 行 者 {reg33?:}
-qstr_{s8}^You_are_now_a_pr|{s8}^你 现 在 是 金 属 魔 法 的 修 行 者 {reg33?:}
+qstr_{s8}^You_are_now_a_pr|{s8}^你 现 在 是 黄 金 魔 法 的 修 行 者 {reg33?:}
 qstr_{s8}^You_are_now_a_pra|{s8}^你 现 在 是 光 明 魔 法 的 修 行 者 {reg33?:}
 qstr_You_are_now_a_hedge_|你 现 在 是 一 名 荒 野 巫 师 {reg33?:}
-qstr_{s8}^You_are_now_a_prac|{s8}^你 现 在 是 天 堂 魔 法 的 修 行 者 {reg33?:}
+qstr_{s8}^You_are_now_a_prac|{s8}^你 现 在 是 天 空 魔 法 的 修 行 者 {reg33?:}
 qstr_{s8}^You_are_now_a_pract|{s8}^你 现 在 是 阴 影 魔 法 的 修 行 者 {reg33?:}
 qstr_{s8}^You_are_now_a_practi|{s8}^你 现 在 是 死 亡 魔 法 的 修 行 者 {reg33?:}
 qstr_{s8}^You_are_now_a_practit|{s8}^你 现 在 是 火 焰 魔 法 的 修 行 者 {reg33?:}
