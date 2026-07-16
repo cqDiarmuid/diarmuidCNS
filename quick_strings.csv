@@ -77,7 +77,7 @@ qstr_{s1}_has_cast_Melkot|{s1}施 放 了 梅 尔 克 斯 的 迷 魂 毒 瘴。
 qstr_{s1}_has_cast_pit_of|{s1}施 放 了 幽 暗 深 渊。如 果 敏 捷 检 定 失 败，受 影 响 的 敌 人 部 队 死 亡。
 qstr_{s3}_has_cast_caress|{s3} 施 放 了 拉 尼 菲 的 爱 抚。如 果 强 击 检 定 失 败，敌 人 会 受 到 多 重 打 击。
 qstr_{playername}_has_cast_t|{playername} 施 放 了 贝 加 纳 的 命 运。敌 人 若 坚 韧 检 定 失 败 则 会 受 到 多 次 伤 害。
-qstr_{s1}_has_cast_purple|{s1}施 放 了 泽 雷 尔 斯 的 紫 色 邪 阳。如 果 跑 动 检 定 失 败，受 影 响 的 敌 军 部 队 死 亡。
+qstr_{s1}_has_cast_purple|{s1}施 放 了 泽 雷 尔 斯 的 紫 晶 邪 阳。如 果 跑 动 检 定 失 败，受 影 响 的 敌 军 部 队 将 死 亡。
 qstr_{s1}_has_cast_curse_|{s1}施 放 了 安 拉 海 尔 的 诅 咒。受 影 响 的{s2}部 队 移 速 和 远 程 精 确 性 降 低。
 qstr_{s1}_has_cast_Wyssan|{s1}施 放 了 维 杉 的 狂 野 形 态。受 影 响 的 友 军 部 队 增 加 了 伤 害 和 伤 害 抗 性。
 qstr_{s1}_has_cast_the_Wi|{s1} 释 放 了 飞 锚 获 得 了 双 倍 移 动 速 度 
@@ -89,25 +89,25 @@ qstr_{s1}_has_cast_flamin|{s1}施 放 了 鲁 因 火 焰 剑。附 近 的 友 
 qstr_{s1}_has_cast_Swords|{s1}施 放 了 末 日 之 剑。附 近 的 友 军 部 队 增 加 了 近 战 伤 害。
 qstr_{s1}_has_cast_Flame_|{s1}施 放 了 火 焰 风 暴。受 影 响 的 敌 军 受 到 重 创。
 qstr_{s1}_has_cast_Confla|{s1}施 放 了 末 日 之 火。受 影 响 的 敌 军 部 队 受 到 轻 微 到 中 等 伤 害。
-qstr_{s1}_has_cast_walk_b|{s1}施 放 了 行 走 在 世 界 之 间。附 近 的 友 军 增 加 了 速 度 和 闪 避。
+qstr_{s1}_has_cast_walk_b|{s1}施 放 了 界 间 行 走。附 近 的 友 军 部 队 速 度 和 闪 避 提 高。
 qstr_{s1}_has_cast_hand_o|{s1}施 放 了 荣 耀 之 手。附 近 的 友 军 多 个 属 性 提 高。
 qstr_{s1}_has_cast_fiery_|{s1}施 放 了 万 焰 燃 集。受 影 响 的 敌 军 受 到 伤 害。
 qstr_{s1}_has_cast_power_|{s1}施 放 了 黑 暗 之 力。附 近 友 军 部 队 的 伤 害 有 所 增 加。
-qstr_{s1}_has_cast_word_o|{s1}施 放 了 钻 心 剜 骨 咒。受 影 响 的 敌 人 敌 人 部 队 减 少 近 战 伤 害，远 程 精 度 和 武 器 速 度。
+qstr_{s1}_has_cast_word_o|{s1}施 放 了 痛 苦 之 言。受 影 响 的 敌 军 部 队 近 战 伤 害、远 程 精 度 和 武 器 速 度 降 低。
 qstr_{s1}_has_cast_bladew|{s1}施 放 了 利 刃 狂 风。如 果 敏 捷 检 定 失 败，受 影 响 的 敌 军 将 受 到 严 重 伤 害。
 qstr_{s1}_has_cast_soulst|{s1}施 放 了 窃 魂 术。半 径 内 的 敌 军 受 到 伤 害。任 何 死 亡 都 将 治 疗 施 法 者。
-qstr_{s1}_has_cast_Arnzip|{s1}施 放 了 阿 尼 齐 帕 尔 的 黑 暗 恐 惧。如 果 跑 动 检 定 失 败，受 影 响 的 敌 军 部 队 死 亡。
+qstr_{s1}_has_cast_Arnzip|{s1}施 放 了 阿 恩 齐 帕 尔 的 黑 色 恐 怖。如 果 跑 动 检 定 失 败，受 影 响 的 敌 军 部 队 将 死 亡。
 qstr_{s1}_has_cast_Window|{s1}施 放 了 虚 空 之 窗。如 果 跑 动 检 定 失 败，受 影 响 的 敌 军 部 队 死 亡。
-qstr_{s1}_has_cast_Void_o|{s1}施 放 了 死 亡 空 间。受 影 响 的 敌 军 部 队 受 到 伤 害。
+qstr_{s1}_has_cast_Void_o|{s1}施 放 了 死 亡 虚 空。受 影 响 的 敌 军 部 队 将 受 到 伤 害。
 qstr_{s1}_has_cast_Curse_|{s1}施 放 了 岁 月 诅 咒。受 影 响 的 敌 军 开 始 老 化 并 逐 渐 受 到 伤 害。
 qstr_{s1}_has_cast_pink_f|{s1}施 放 了 奸 奇 粉 焰。受 影 响 的 敌 军 受 到 伤 害。
 qstr_{s1}_has_cast_Tzeent|{s1}施 放 了 奸 奇 火 焰 风 暴。受 影 响 的 敌 军 受 到 伤 害。
 qstr_{s1}_has_cast_infern|{s1}施 放 了 地 狱 之 门。受 影 响 的 敌 军 受 到 巨 大 的 伤 害。
-qstr_{s1}_has_cast_hyster|{s1}施 放 了 歇 斯 底 里 的 疯 狂。受 影 响 的 盟 军 部 队 的 行 动 和 战 斗 能 力 都 有 所 提 高，获 得 牢 不 可 破。
+qstr_{s1}_has_cast_hyster|{s1}施 放 了 癫 狂 狂 热。受 影 响 的 友 军 部 队 移 动 和 战 斗 能 力 提 高，并 获 得 牢 不 可 破。
 qstr_{s1}_has_cast_bondag|{s1}施 放 了 色 孽 的 束 缚。受 影 响 的 敌 军 速 度 和 近 战 伤 害 输 出 减 半。
 qstr_{s1}_has_cast_acquie|{s1}施 放 了 顺 从 术。受 影 响 的 敌 军 部 队 移 动 和 战 斗 能 力 减 弱。
 qstr_{s1}_has_cast_slicin|{s1}施 放 了 切 割 裂 片。如 果 统 御 检 定 失 败，受 影 响 的 敌 军 受 到 伤 害，将 面 临 额 外 打 击。
-qstr_{s1}_has_cast_Cacoph|{s1}施 放 了 杂 音 合 唱 团。50%的 几 率 受 影 响 的 敌 军 部 队 受 到 重 创。
+qstr_{s1}_has_cast_Cacoph|{s1}施 放 了 刺 耳 合 唱。受 影 响 的 敌 军 部 队 有 50%几 率 受 到 严 重 伤 害。
 qstr_Nurgle_grants_you_ad|纳 垢 赐 予 你 高 级 忽 略 痛 苦。
 qstr_Nurgle_grants_you_ig|纳 垢 赐 予 你 忽 略 痛 苦。
 qstr_Nurgle_grants_you_ma|纳 垢 赐 予 你 大 师 级 忽 略 痛 苦。
@@ -117,7 +117,7 @@ qstr_You_have_gained_igno|你 获 得 了 无 视 痛 苦 效 果。
 qstr_You_gain_advanced_ig|你 获 得 了 高 级 无 视 痛 苦 效 果。
 qstr_{s1}_has_cast_blades|{s1}施 放 了 腐 化 之 刃。受 影 响 的 友 军 获 得 剧 毒 攻 击
 qstr_{s1}_has_cast_curse_o|{s1}施 放 了 麻 风 病 的 诅 咒。受 影 响 的 友 军 部 队 获 得 忽 视 痛 苦
-qstr_{s1}_has_cast_rancid|{s1}施 放 了 腐 臭 的 探 访。如 果 铁 骨 检 定 失 败，受 影 响 的 敌 军 受 到 伤 害，将 面 临 额 外 打 击。
+qstr_{s1}_has_cast_rancid|{s1}施 放 了 腐 臭 侵 袭。受 影 响 的 敌 军 若 铁 骨 检 定 失 败，将 受 到 伤 害 和 额 外 一 次 攻 击。
 qstr_{s1}_has_cast_plague|{s1}施 放 了 瘟 疫 之 风。如 果 体 质 检 定 失 败，受 影 响 的 敌 军 受 到 伤 害。
 qstr_{s1}_has_cast_foot_o|{s1}施 放 了 搞 哥 大 脚。受 影 响 的{s2}部 队 受 到 严 重 伤 害。
 qstr_{s1}_has_cast_ere_we|{s1}施 放 了 跟 我 上！。受 影 响 的 友 军 部 队 增 加 了 战 斗 能 力，获 得 了 无 视 痛 苦。
@@ -133,7 +133,7 @@ qstr_{s1}_has_cast_scorch|{s1}施 放 了 焦 炎 术。受 影 响 的 敌 军 
 qstr_{s1}_has_cast_cracks|{s1}施 放 了 地 裂 术。如 果 检 定 失 败，受 影 响 的{s2}部 队 将 会 死 亡
 qstr_{s1}_has_cast_blessi|{s1}施 放 了 污 秽 赐 福。受 影 响 的 友 军 获 得 剧 毒 攻 击
 qstr_{s1}_has_cast_corrup|{s1}施 放 了 腐 败。如 果 检 定 失 败，受 影 响 的{s2}部 队 将 会 受 到 伤 害
-qstr_{s1}_has_cast_plague.|{s1}施 放 了 瘟 疫。如 果 体 质 检 定 失 败，受 影 响 的 敌 军 将 受 到 伤 害，当 他 们 死 亡 时，可 能 会 再 次 造 成 瘟 疫。
+qstr_{s1}_has_cast_plague.|{s1}施 放 了 乌 西 里 安 的 复 仇 咒。受 影 响 的 敌 军 若 体 质 检 定 失 败，将 受 到 伤 害；其 死 亡 时 可 能 再 次 引 发 瘟 疫。
 qstr_{s1}_has_cast_Usiria|{s1}施 放 了 乌 西 里 安 的 复 仇 咒。受 影 响 的 敌 军 移 速 减 慢
 qstr_{s1}_has_cast_Sakhme|{s1}施 放 了 塞 霍 姆 特 的 骸 骨 风 暴 咒。受 影 响 的 敌 军 受 到 中 度 到 重 度 的 伤 害。
 qstr_{s1}_has_cast_Burnin|{s1}施 放 了 烈 焰 风 暴。受 影 响 的 敌 方 部 队 受 到 中 等 到 严 重 伤 害。
@@ -1485,7 +1485,7 @@ qstr_Melee_damage_modifie|近 战 伤 害 -{reg11}%
 qstr_Ranged_accuracy_and_|远 程 精 度 和 装 填 速 度 -{reg12}%
 qstr_Casting_roll_penalty|施 法 检 定 惩 罚：{reg13}
 qstr_Mana_cost_penalty_+_|法 力 消 耗 惩 罚 +{reg13}%
-qstr_{s3}_has_cast_spirit|{s3} 施 放 了 灵 魂 榨 取。如 果 统 御 检 定 失 败，敌 人 会 受 到 严 重 伤 害。
+qstr_{s3}_has_cast_spirit|{s3} 施 放 了 灵 魂 汲 取。如 果 统 御 检 定 失 败，敌 人 将 受 到 严 重 伤 害。
 qstr_{s3}_has_cast_Traito|{s3} 施 放 了 塔 恩 的 叛 徒。{s2} 成 为 他 们 的 盟 友 
 qstr_{s3}_has_cast_Madnes|{s3} 施 放 了 精 神 错 乱。{s2} 成 为 他 们 的 盟 友 
 qstr_Ironflesh_test_passe|铁 骨 检 定 通 过。
@@ -1498,7 +1498,7 @@ qstr_{s3}_has_cast_glean_|{s3} 施 放 了 窃 取 魔 法。{s2} 受 到 严 �
 qstr_{s3}_has_cast_bolt_o|{s3} 施 放 了 变 幻 之 箭。{s2} 受 到 严 重 伤 害。
 qstr_Leadership_test_fail|统 御 检 定 失 败。
 qstr_{s3}_has_cast_pavane|{s3} 施 放 了 色 孽 舞 曲。如 果 统 御 检 定 失 败，{s2} 受 到 严 重 伤 害。
-qstr_{s3}_has_cast_Sekhub|{s3} 施 放 了 塞 库 比 的 复 仇 咒。{s2} 受 到 严 重 伤 害。
+qstr_{s3}_has_cast_Sekhub|{s3} 施 放 了 塞 库 比 的 愤 怒 咒。{s2} 将 受 到 严 重 伤 害。
 qstr_Power_of_da_Waaagh_b|daWaaagh之 力 奖 励：致 死 伤 
 qstr_Power_of_da_Waaagh_bo|daWaaagh之 力 奖 励：致 命 伤 
 qstr_Power_of_da_Waaagh_bon|daWaaagh之 力 奖 励：大 伤 
@@ -1507,9 +1507,9 @@ qstr_Power_of_da_Waaagh_bonus|daWaaagh之 力 奖 励：无 伤
 qstr_{s3}_has_cast_brain_|{s3} 施 放 了 爆 脑 术。{s2} 受 到 严 重 伤 害。
 qstr_Power_of_da_Waaagh_bonus:|daWaaagh之 力 奖 励：致 死 伤 
 qstr_{s3}_has_cast_eadbut|{s3} 施 放 了 头 槌 冲 击 波。{s2} 受 到 非 常 高 伤 害。
-qstr_{s3}_has_cast_midwin|{s3} 施 放 了 冰 女 之 吻。{s2} 受 到 伤 害。
-qstr_{s3}_has_cast_sun_st|{s3} 施 放 了 炎 阳 射 击。{s2} 受 到 伤 害。
-qstr_{s3}_has_cast_bray_s|{s3} 施 放 了 吼 啸。{s2} 受 到 伤 害。
+qstr_{s3}_has_cast_midwin|{s3} 施 放 了 隆 冬 之 吻。{s2} 将 受 到 伤 害。
+qstr_{s3}_has_cast_sun_st|{s3} 施 放 了 烈 日 打 击。{s2} 将 受 到 伤 害。
+qstr_{s3}_has_cast_bray_s|{s3} 施 放 了 兽 吼。{s2} 将 受 到 伤 害。
 qstr_{s37}_has_knocked_ou|{s37} 用 {reg39}点 魔 法 伤 害 击 晕 了 {s38}。
 qstr_{s37}_has_killed_{s3|{s37} 以  {reg39}的 魔 法 伤 害 杀 死 了 {s38}。
 qstr_{s38}_knocked_uncons|{s38} 被 {s37} 打 晕。
@@ -1542,11 +1542,11 @@ qstr_Your_attempt_to_cast_R|你 尝 试 施 放 征 战 之 光 失 败。
 qstr_{s1}s_attempt_to_cast_R|{s1}尝 试 施 放 征 战 之 光 失 败。
 qstr_Your_venom_has_been_|你 的 毒 素 已 被 治 愈。
 qstr_You_are_no_longer_su|你 不 再 遭 受 中 毒 效 果。
-qstr_{s1}_has_cast_Radian|{s1}施 放 了 征 战 之 光。所 有{s2}部 队 的 勇 气 得 到 增 强，逃 兵 集 结。治 愈 所 有 中 毒 和 毒 素 效 果。
+qstr_{s1}_has_cast_Radian|{s1}施 放 了 海 希 之 辉。所 有 {s2}部 队 的 勇 气 提 高，溃 逃 部 队 重 整，并 清 除 所 有 中 毒 和 毒 素 效 果。
 qstr_Your_attempt_to_cast_Sh|你 尝 试 施 放 闪 光 斗 篷 失 败。
 qstr_{s1}s_attempt_to_cast_Sh|{s1}尝 试 施 放 闪 光 斗 篷 失 败。
 qstr_{s1}s_attempt_to_cast_Shi|{s1}尝 试 施 放 闪 光 斗 篷 失 败。
-qstr_{s1}_has_cast_Shimme|{s1}施 放 了 闪 光 斗 篷。斗 篷 有 83%几 率 吸 收 所 有 远 程 伤 害。
+qstr_{s1}_has_cast_Shimme|{s1}施 放 了 闪 耀 斗 篷。斗 篷 有 83%几 率 吸 收 所 有 远 程 伤 害。
 qstr_Your_attempt_to_cast_N|你 尝 试 施 放 阿 明 托 克 之 网 失 败。
 qstr_{s1}s_attempt_to_cast_N|{s1}尝 试 施 放 阿 明 托 克 之 网 失 败。
 qstr_Your_attempt_to_cast_Ne|你 尝 试 施 放 阿 明 托 克 之 网 失 败。
@@ -1567,7 +1567,7 @@ qstr_{s1}s_attempt_to_cast_p|{s1}尝 试 施 放 锈 蚀 瘟 疫 失 败。
 qstr_{s1}_has_cast_Plague_|{s1}施 放 了 锈 蚀 瘟 疫。{s2}护 甲 被 瓦 解
 qstr_Your_attempt_to_cast_T|你 尝 试 施 放 坩 埚 失 败。
 qstr_{s1}s_attempt_to_cast_T|{s1}尝 试 施 放 坩 埚 失 败。
-qstr_{s1}_has_cast_the_Cr|{s1} 施 放 了 坩 埚，传 送 到 战 场 的 另 一 处。
+qstr_{s1}_has_cast_the_Cr|{s1} 施 放 了 女 巫 飞 行 术，传 送 至 战 场 的 另 一 处。
 qstr_Your_attempt_to_cast_e|你 尝 试 施 放 艾 班 之 刃 附 魔 失 败。
 qstr_{s1}s_attempt_to_cast_e|{s1}尝 试 施 放 艾 班 之 刃 附 魔 失 败。
 qstr_{s1}_has_cast_enchant|{s1}施 放 了 艾 班 之 刃 附 魔。附 近{s3}部 队 的 战 斗 能 力 增 强 了。
@@ -1588,7 +1588,7 @@ qstr_{s1}s_attempt_to_cast_C|{s1}尝 试 施 放 纪 伦 斗 篷 失 败。
 qstr_{s1}_has_cast_Cloak_|{s1}施 放 了 纪 伦 斗 篷。在 魔 法 阶 段 斗 篷 将 吸 收{reg3}次 伤 害。
 qstr_Your_attempt_to_cast_th|你 尝 试 施 放 祖 母 绿 潭 失 败。
 qstr_{s1}s_attempt_to_cast_th|{s1}尝 试 施 放 祖 母 绿 潭 失 败。
-qstr_{s1}_has_cast_the_Em|{s1}施 放 了 祖 母 绿 潭。他 们 传 送 到 战 场 的 另 一 个 地 方
+qstr_{s1}_has_cast_the_Em|{s1}施 放 了 翡 翠 之 门。他 们 传 送 到 战 场 的 另 一 个 地 方
 qstr_Your_attempt_to_cast_ea|你 尝 试 施 放 大 地 之 血 失 败。
 qstr_{s1}s_attempt_to_cast_ea|{s1}尝 试 施 放 大 地 之 血 失 败。
 qstr_{s1}_has_cast_earth_|{s1}施 放 了 大 地 之 血。附 近{s3}部 队 恢 复 健 康
@@ -1656,25 +1656,25 @@ qstr_Your_attempt_to_cast_St|你 尝 试 施 放 阴 影 骏 马 失 败。
 qstr_{s1}s_attempt_to_cast_St|{s1}尝 试 施 放 阴 影 骏 马 失 败。
 qstr_Your_attempt_to_cast_Ra|你 尝 试 施 放 普 特 罗 斯 的 光 芒 失 败。
 qstr_{s1}s_attempt_to_cast_Ra|{s1}尝 试 施 放 普 特 罗 斯 的 光 芒 失 败。
-qstr_{s1}_has_cast_Radianc|{s1} 施 放 了 普 特 罗 斯 的 光 芒，获 得 远 程 伤 害 防 护。
+qstr_{s1}_has_cast_Radianc|{s1} 施 放 了 普 特 罗 斯 之 辉，获 得 远 程 伤 害 防 护。
 qstr_Your_attempt_to_cast_pi|你 尝 试 施 放 幽 暗 深 渊 失 败。
 qstr_{s1}s_attempt_to_cast_pi|{s1}尝 试 施 放 幽 暗 深 渊 失 败。
-qstr_{s1}_has_cast_pit_of_|{s1} 施 放 了 阴 影 深 坑。受 影 响 的 {s2} 部 队 若 敏 捷 检 定 失 败 则 死 亡。
+qstr_{s1}_has_cast_pit_of_|{s1} 施 放 了 幽 暗 深 渊。受 影 响 的 {s2} 部 队 若 敏 捷 检 定 失 败 则 死 亡。
 qstr_Your_attempt_to_cast_O|你 尝 试 施 放 奥 卡 姆 的 意 念 剃 刀 失 败。
 qstr_{s1}s_attempt_to_cast_O|{s1}尝 试 施 放 奥 卡 姆 的 意 念 剃 刀 失 败。
-qstr_{s1}_has_cast_Okkams|{s1}施 放 了 奥 卡 姆 的 意 念 剃 刀。附 近{s3}部 队 基 于 施 法 者 的 领 导 技 能 获 得 伤 害 提 升。
+qstr_{s1}_has_cast_Okkams|{s1}施 放 了 奥 卡 姆 的 心 灵 剃 刀。附 近{s3}部 队 基 于 施 法 者 的 领 导 技 能 获 得 伤 害 提 升。
 qstr_Your_attempt_to_cast_Spe|你 尝 试 施 放 莱 科 斯 的 速 度 失 败。
 qstr_{s1}s_attempt_to_cast_Sp|{s1}尝 试 施 放 莱 科 斯 的 速 度 失 败。
 qstr_{s1}_has_cast_Speed_o|{s1}施 放 了 莱 科 斯 的 速 度。他 们 传 送 到 战 场 的 另 一 个 地 方
 qstr_Your_attempt_to_cast_sp|你 尝 试 施 放 灵 魂 榨 取 失 败。
 qstr_{s1}s_attempt_to_cast_sp|{s1}尝 试 施 放 灵 魂 榨 取 失 败。
-qstr_{s1}_has_cast_spirit|{s1} 施 放 了 灵 魂 吸 取。受 影 响 的 {s3} 部 队 与 施 法 者 进 行 统 御 对 抗，并 根 据 失 败 差 值 承 受 伤 害。
+qstr_{s1}_has_cast_spirit|{s1} 施 放 了 灵 魂 汲 取。受 影 响 的 {s3} 部 队 与 施 法 者 进 行 统 御 对 抗，并 根 据 失 败 差 值 承 受 伤 害。
 qstr_Your_attempt_to_cast_as|你 尝 试 施 放 死 亡 骑 士 化 身 失 败。
 qstr_{s1}s_attempt_to_cast_as|{s1}尝 试 施 放 死 亡 骑 士 化 身 失 败。
-qstr_{s1}_has_cast_aspect|{s1}施 放 了 死 亡 骑 士 化 身。附 近 的{s3}部 队 获 得 勇 气，引 发 恐 惧 并 变 得 不 可 击 溃。溃 退 部 队 可 能 重 整。附 近 的{s4}部 队 失 去 勇 气。
+qstr_{s1}_has_cast_aspect|{s1}施 放 了 恐 惧 骑 士 化 身。附 近 的{s3}部 队 获 得 勇 气，引 发 恐 惧 并 变 得 不 可 击 溃。溃 退 部 队 可 能 重 整。附 近 的{s4}部 队 失 去 勇 气。
 qstr_Your_attempt_to_cast_ca|你 尝 试 施 放 拉 尼 菲 的 爱 抚 失 败。
 qstr_{s1}s_attempt_to_cast_ca|{s1}尝 试 施 放 拉 尼 菲 的 爱 抚 失 败。
-qstr_{s1}_has_cast_caress|{s1} 施 放 了 兰 尼 弗 的 爱 抚。受 影 响 的 {s3} 部 队 若 强 击 检 定 失 败，则 承 受 多 次 伤 害。
+qstr_{s1}_has_cast_caress|{s1} 施 放 了 拉 尼 菲 的 爱 抚。受 影 响 的 {s3} 部 队 若 强 击 检 定 失 败，则 承 受 多 次 伤 害。
 qstr_Your_attempt_to_cast_so|你 尝 试 施 放 灵 魂 枯 萎 失 败。
 qstr_{s1}s_attempt_to_cast_so|{s1}尝 试 施 放 灵 魂 枯 萎 失 败。
 qstr_{s1}_has_cast_soulbl|{s1}施 放 了 灵 魂 枯 萎。附 近{s3}部 队 被 虚 弱 了。
@@ -1689,7 +1689,7 @@ qstr_{s1}s_attempt_to_cast_pu|{s1}尝 试 施 放 泽 雷 尔 斯 的 紫 色 �
 qstr_{s1}_has_cast_purple_|{s1} 施 放 了 泽 雷 尔 斯 的 紫 晶 邪 阳。受 影 响 的 {s2} 部 队 若 跑 动 检 定 失 败 则 死 亡，且 不 能 进 行 守 护 豁 免。
 qstr_Your_attempt_to_cast_cas|你 尝 试 施 放 流 火 披 风 失 败。
 qstr_{s1}s_attempt_to_cast_cas|{s1}尝 试 施 放 流 火 披 风 失 败。
-qstr_{s1}_has_cast_cascadi|{s1} 施 放 了 流 火 斗 篷。受 保 护 的 {s2} 部 队 遭 到 近 战 攻 击 时，斗 篷 会 自 动 命 中 攻 击 者。
+qstr_{s1}_has_cast_cascadi|{s1} 施 放 了 流 火 披 风。受 保 护 的 {s2} 部 队 遭 到 近 战 攻 击 时，斗 篷 会 自 动 命 中 攻 击 者。
 qstr_Your_attempt_to_cast_F|你 尝 试 施 放 火 焰 牢 笼 失 败。
 qstr_{s1}s_attempt_to_cast_F|{s1}尝 试 施 放 火 焰 牢 笼 失 败。
 qstr_{s1}_has_cast_Fulmin|{s1} 施 放 了 火 焰 牢 笼。受 影 响 的 {s2} 部 队 若 试 图 移 动，将 在 下 一 次 魔 法 之 风 判 定 时 受 到 伤 害。
@@ -1747,13 +1747,13 @@ qstr_{s1}s_attempt_to_cast_d|{s1}尝 试 施 放 汲 魔 术 失 败。
 qstr_{s1}_has_cast_drain_|{s1}施 放 了 汲 魔 术。所 有 当 前 的 魔 法 效 果 都 将 被 取 消，并 且{s3}魔 法 使 用 者 将 在 下 一 魔 法 阶 段 降 低 法 力 值。
 qstr_Your_attempt_to_cast_ap|你 尝 试 施 放 神 圣 颂 扬 失 败。
 qstr_{s1}s_attempt_to_cast_ap|{s1}尝 试 施 放 神 圣 颂 扬 失 败。
-qstr_{s1}_has_cast_apothe|{s1}施 放 了 神 圣 颂 扬。附 近{s3}部 队 生 命 回 复 并 造 成 恐 惧
+qstr_{s1}_has_cast_apothe|{s1}施 放 了 神 化 术。附 近{s3}部 队 生 命 回 复 并 造 成 恐 惧
 qstr_Your_attempt_to_cast_ha|你 尝 试 施 放 荣 耀 之 手 失 败。
 qstr_{s1}s_attempt_to_cast_ha|{s1}尝 试 施 放 荣 耀 之 手 失 败。
 qstr_{s1}_has_cast_hand_of_|{s1}施 放 了 荣 耀 之 手。附 近{s3}部 队 多 种 属 性 提 高
 qstr_Your_attempt_to_cast_w|你 尝 试 施 放 行 走 在 世 界 之 间 失 败。
 qstr_{s1}s_attempt_to_cast_w|{s1}尝 试 施 放 行 走 在 世 界 之 间 失 败。
-qstr_{s1}_has_cast_walk_be|{s1}施 放 了 行 走 在 世 界 之 间。附 近{s3}部 队 速 度 和 闪 避 率 提 高
+qstr_{s1}_has_cast_walk_be|{s1}施 放 了 界 间 行 走。附 近{s3}部 队 速 度 和 闪 避 率 提 高
 qstr_Your_attempt_to_cast_te|你 尝 试 施 放 八 风 暴 雨 失 败。
 qstr_{s1}s_attempt_to_cast_te|{s1}尝 试 施 放 八 风 暴 雨 失 败。
 qstr_{s1}_has_cast_Tempes|{s1}施 放 了 八 风 暴 雨。敌 人 远 程 精 度 下 降
@@ -1778,7 +1778,7 @@ qstr_{s1}s_attempt_to_cast_ch|{s1}尝 试 施 放 彻 骨 寒 风 失 败。
 qstr_{s1}_has_cast_chillw|{s1}施 放 了 彻 骨 寒 风。{s3}远 程 精 度 减 弱
 qstr_Your_attempt_to_cast_wo|你 尝 试 施 放 钻 心 剜 骨 咒 失 败。
 qstr_{s1}s_attempt_to_cast_wo|{s1}尝 试 施 放 钻 心 剜 骨 咒 失 败。
-qstr_{s1}_has_cast_word_of|{s1}施 放 了 钻 心 剜 骨 咒。受 影 响 的 敌 人{s3}部 队 近 战 伤 害、远 程 精 度 和 武 器 挥 舞 速 度 减 弱。
+qstr_{s1}_has_cast_word_of|{s1}施 放 了 痛 苦 之 言。受 影 响 的 敌 人{s3}部 队 近 战 伤 害、远 程 精 度 和 武 器 挥 舞 速 度 减 弱。
 qstr_Your_attempt_to_cast_bl|你 尝 试 施 放 利 刃 狂 风 失 败。
 qstr_{s1}s_attempt_to_cast_bl|{s1}尝 试 施 放 利 刃 狂 风 失 败。
 qstr_{s1}_has_cast_bladewi|{s1} 施 放 了 刃 风。受 影 响 的 {s2} 部 队 进 行 敏 捷 检 定；检 定 成 功 时 所 受 伤 害 降 低。
@@ -1788,10 +1788,10 @@ qstr_{s1}s_attempt_to_cast_shr|{s1}尝 试 施 放 绝 望 帷 幕 失 败。
 qstr_{s1}_has_cast_shroud|{s1}施 放 了 绝 望 帷 幕。附 近{s3}部 队 失 去 士 气
 qstr_Your_attempt_to_cast_sou|你 尝 试 施 放 窃 魂 术 失 败。
 qstr_{s1}s_attempt_to_cast_sou|{s1}尝 试 施 放 窃 魂 术 失 败。
-qstr_{s1}_has_cast_soulste|{s1} 施 放 了 夺 魂 术。受 影 响 的 {s2} 部 队 受 到 伤 害；每 造 成 一 次 击 杀，施 法 者 都 会 恢 复 生 命。
+qstr_{s1}_has_cast_soulste|{s1} 施 放 了 窃 魂 术。受 影 响 的 {s2} 部 队 受 到 伤 害；每 造 成 一 次 击 杀，施 法 者 都 会 恢 复 生 命。
 qstr_Your_attempt_to_cast_Arn|你 尝 试 施 放 阿 尼 齐 帕 尔 的 黑 暗 恐 惧 失 败。
 qstr_{s1}s_attempt_to_cast_Ar|{s1}尝 试 施 放 阿 尼 齐 帕 尔 的 黑 暗 恐 惧 失 败。
-qstr_{s1}_has_cast_Arnzipa|{s1} 施 放 了 阿 恩 齐 帕 尔 的 黑 暗 恐 怖。受 影 响 的 {s2} 部 队 若 力 量 检 定 失 败 则 死 亡。
+qstr_{s1}_has_cast_Arnzipa|{s1} 施 放 了 阿 恩 齐 帕 尔 的 黑 色 恐 怖。受 影 响 的 {s2} 部 队 若 力 量 检 定 失 败 则 死 亡。
 qstr_Your_attempt_to_cast_the_V|你 尝 试 施 放 范 赫 死 亡 之 舞 失 败。
 qstr_{s1}s_attempt_to_cast_the_V|{s1}尝 试 施 放 范 赫 死 亡 之 舞 失 败。
 qstr_Your_attempt_to_cast_V|你 尝 试 施 放 范 赫 死 亡 之 舞 失 败。
@@ -1843,7 +1843,7 @@ qstr_{s1}_has_raised_a_{s|{s1} 从 坟 墓 里 召 唤 了 一 个 {s4}。
 qstr_{s1}_has_cast_Raise_|{s1}施 放 了 驱 役 亡 灵
 qstr_Your_attempt_to_cast_Tu|你 尝 试 施 放 化 身 烟 雾 失 败。
 qstr_{s1}s_attempt_to_cast_Tu|{s1}尝 试 施 放 化 身 烟 雾 失 败。
-qstr_{s1}_has_cast_Turn_t|{s1} 已 经 施 放 了 化 烟 术。他 们 传 送 至 战 场 的 另 一 部 分。
+qstr_{s1}_has_cast_Turn_t|{s1} 已 经 施 放 了 化 为 烟 雾。他 们 传 送 至 战 场 的 另 一 部 分。
 qstr_Your_attempt_to_cast_E|你 尝 试 施 放 虚 幻 失 败。
 qstr_{s1}s_attempt_to_cast_E|{s1}尝 试 施 放 虚 幻 失 败。
 qstr_{s1}_has_cast_Ethere|{s1} 施 放 了 灵 体 化。{s1} 化 为 灵 体，近 战 攻 击 额 外 造 成 寒 霜 伤 害。
@@ -1865,7 +1865,7 @@ qstr_{s1}s_attempt_to_cast_Shie|{s1}尝 试 施 放 火 之 盾 失 败。
 qstr_{s1}_has_cast_Shield|{s1}施 放 了 火 之 盾。护 盾 有 83%几 率 吸 收 所 有 近 战 伤 害
 qstr_Your_attempt_to_cast_tre|你 尝 试 施 放 奸 奇 变 异 失 败。
 qstr_{s1}s_attempt_to_cast_tre|{s1}尝 试 施 放 奸 奇 变 异 失 败。
-qstr_{s1}_has_cast_treaso|{s1} 已 经 施 放 了 奸 奇 背 叛。受 影 响 的 {s3} 部 队 可 能 成 为 {s1} 的 盟 友。
+qstr_{s1}_has_cast_treaso|{s1} 已 经 施 放 了 奸 奇 的 背 叛。受 影 响 的 {s3} 部 队 可 能 成 为 {s1} 的 盟 友。
 qstr_Your_attempt_to_cast_pin|你 尝 试 施 放 奸 奇 粉 焰 失 败。
 qstr_{s1}s_attempt_to_cast_pin|{s1}尝 试 施 放 奸 奇 粉 焰 失 败。
 qstr_{s1}_has_cast_pink_fi|{s1}施 放 了 奸 奇 粉 焰。受 影 响 的{s2}部 队 受 到 伤 害
@@ -1896,16 +1896,16 @@ qstr_Your_attempt_to_cast_pav|你 尝 试 施 放 色 孽 舞 曲 失 败。
 qstr_{s1}_has_cast_pavane|{s1}施 放 了 色 孽 舞 曲。受 影 响 的{s3}部 队 受 到 严 重 伤 害
 qstr_Your_attempt_to_cast_hy|你 尝 试 施 放 歇 斯 底 里 的 疯 狂 失 败。
 qstr_{s1}s_attempt_to_cast_hy|{s1}尝 试 施 放 歇 斯 底 里 的 疯 狂 失 败。
-qstr_{s1}_has_cast_hysteri|{s1}施 放 了 歇 斯 底 里 的 疯 狂。受 影 响 的{s2}部 队 移 动 和 战 斗 能 力 提 升 且 获 得 牢 不 可 破
+qstr_{s1}_has_cast_hysteri|{s1}施 放 了 癫 狂 狂 热。受 影 响 的{s2}部 队 移 动 和 战 斗 能 力 提 升 且 获 得 牢 不 可 破
 qstr_Your_attempt_to_cast_sl|你 尝 试 施 放 切 割 裂 片 失 败。
 qstr_{s1}s_attempt_to_cast_sl|{s1}尝 试 施 放 切 割 裂 片 失 败。
 qstr_{s1}_has_cast_slicing|{s1}施 放 了 切 割 裂 片。受 影 响 的{s2}部 队 受 到 伤 害 且 受 到 额 外 伤 害
 qstr_Your_attempt_to_cast_ph|你 尝 试 施 放 幻 影 术 失 败。
 qstr_{s1}s_attempt_to_cast_ph|{s1}尝 试 施 放 幻 影 术 失 败。
-qstr_{s1}_has_cast_phanta|{s1}施 放 了 幻 影 术。附 近{s4}部 队 特 殊 能 力 减 弱
+qstr_{s1}_has_cast_phanta|{s1}施 放 了 幻 象 狂 景。附 近{s4}部 队 特 殊 能 力 减 弱
 qstr_Your_attempt_to_cast_cac|你 尝 试 施 放 杂 音 合 唱 团 失 败。
 qstr_{s1}s_attempt_to_cast_cac|{s1}尝 试 施 放 杂 音 合 唱 团 失 败。
-qstr_{s1}_has_cast_Cacopho|{s1}施 放 了 杂 音 合 唱 团。50%几 率 使 受 影 响 的{s2}部 队 受 到 伤 害 严 重 伤 害
+qstr_{s1}_has_cast_Cacopho|{s1}施 放 了 刺 耳 合 唱。50%几 率 使 受 影 响 的{s2}部 队 受 到 伤 害 严 重 伤 害
 qstr_Your_attempt_to_cast_m|你 尝 试 施 放 瘟 疫 瘴 气 失 败。
 qstr_{s1}s_attempt_to_cast_m|{s1}尝 试 施 放 瘟 疫 瘴 气 失 败。
 qstr_{s1}_has_cast_miasma_|{s1}施 放 了 瘟 疫 瘴 气。受 影 响 的{s2}部 队 移 动 和 战 斗 能 力 减 弱
@@ -1919,11 +1919,11 @@ qstr_{s1}_has_cast_curse_of_the|{s1}施 放 了 麻 风 病 的 诅 咒。受 �
 qstr_Your_attempt_to_cast_ra|你 尝 试 施 放 腐 臭 的 探 访 失 败。
 qstr_{s1}s_attempt_to_cast_ra|{s1}尝 试 施 放 腐 臭 的 探 访 失 败。
 qstr_Your_attempt_to_cast_ran|你 尝 试 施 放 腐 臭 的 探 访 失 败。
-qstr_{s1}_has_cast_rancid_|{s1}施 放 了 腐 臭 的 探 访。受 影 响 的{s2}部 队 受 到 伤 害 且 受 到 额 外 伤 害
+qstr_{s1}_has_cast_rancid_|{s1}施 放 了 腐 臭 侵 袭。受 影 响 的{s2}部 队 受 到 伤 害 且 受 到 额 外 伤 害
 qstr_Your_attempt_to_cast_fle|你 尝 试 施 放 腐 肉 丛 生 失 败。
 qstr_{s1}s_attempt_to_cast_fle|{s1}尝 试 施 放 腐 肉 丛 生 失 败。
 qstr_Your_attempt_to_cast_fles|你 尝 试 施 放 腐 肉 丛 生 失 败。
-qstr_{s1}_has_cast_fleshy|{s1}施 放 了 腐 肉 丛 生。附 近 受 伤 的{s4}部 队 有 机 会 完 全 痊 愈。
+qstr_{s1}_has_cast_fleshy|{s1}施 放 了 肉 体 丰 饶。附 近 受 伤 的{s4}部 队 有 机 会 完 全 痊 愈。
 qstr_Your_attempt_to_cast_pl|你 尝 试 施 放 瘟 疫 之 风 失 败。
 qstr_{s1}s_attempt_to_cast_pl|{s1}尝 试 施 放 瘟 疫 之 风 失 败。
 qstr_{s1}_has_cast_plague_|{s1} 施 放 了 瘟 疫 之 风。受 影 响 的 {s2} 部 队 进 行 体 质 检 定，失 败 者 受 到 毒 素 伤 害。
@@ -1933,10 +1933,10 @@ qstr_{s1}s_attempt_to_cast_ste|{s1}尝 试 施 放 纳 垢 恶 臭 失 败。
 qstr_{s1}_has_cast_stench|{s1}施 放 了 纳 垢 恶 臭。{s1}会 间 歇 性 释 放 有 毒 气 体。
 qstr_Your_attempt_to_cast_Wa|你 尝 试 施 放 大 Waaaaaagh！失 败。
 qstr_{s1}s_attempt_to_cast_Wa|{s1}尝 试 施 放 大 Waaaaaagh！失 败。
-qstr_{s1}_has_cast_Waaaaa|{s1} 已 施 放 哇 啊 啊 啊 啊。所 有 {s3} 部 队 勇 气 提 升，逃 亡 部 队 重 整。敌 方 施 法 者 如 果 意 志 力 检 定 失 败 则 受 到 伤 害。
+qstr_{s1}_has_cast_Waaaaa|{s1} 已 施 放 小 Waaaaaagh！所 有 {s3} 部 队 勇 气 提 高，溃 逃 部 队 重 整。敌 方 施 法 者 若 意 志 力 检 定 失 败，将 受 到 伤 害。
 qstr_Your_attempt_to_cast_Mor|你 尝 试 施 放 毛 哥 救 了 乌 兹 失 败。
 qstr_{s1}s_attempt_to_cast_Mor|{s1}尝 试 施 放 毛 哥 救 了 乌 兹 失 败。
-qstr_{s1}_has_cast_Mork_S|{s1}施 放 了 毛 哥 救 了 乌 兹。所 有 当 前 魔 法 效 果 被 取 消，{s3}魔 法 使 用 者 将 在 下 一 个 魔 法 阶 段 减 少 魔 法 值。
+qstr_{s1}_has_cast_Mork_S|{s1}施 放 了 毛 哥 救 俺 们。所 有 当 前 魔 法 效 果 被 取 消，{s3}魔 法 使 用 者 将 在 下 一 个 魔 法 阶 段 减 少 魔 法 值。
 qstr_Your_attempt_to_cast_br|你 尝 试 施 放 爆 脑 术 失 败。
 qstr_{s1}s_attempt_to_cast_br|{s1}尝 试 施 放 爆 脑 术 失 败。
 qstr_{s1}_has_cast_brain_|{s1}施 放 了 爆 脑 术。{s2}受 到 严 重 伤 害。
@@ -1968,11 +1968,11 @@ qstr_{s1}s_attempt_to_cast_it|{s1}尝 试 施 放 瘙 痒 侵 袭 失 败。
 qstr_{s1}_has_cast_itchy_n|{s1}施 放 了 瘙 痒 侵 袭。受 影 响 的{s2}部 队 移 速 减 弱
 qstr_Your_attempt_to_cast_Go|你 尝 试 施 放 搞 哥 会 修 好 它 失 败。
 qstr_{s1}s_attempt_to_cast_Go|{s1}尝 试 施 放 搞 哥 会 修 好 它 失 败。
-qstr_{s1}_has_cast_Gork_w|{s1} 已 施 放 戈 克 会 修 好 它。附 近 {s4} 部 队 特 殊 能 力 被 削 弱。附 近 {s5} 地 精 获 得 闪 避。
-qstr_{s1}_has_cast_Gork_wi|{s1} 已 施 放 戈 克 会 修 好 它。附 近 {s4} 部 队 特 殊 能 力 被 削 弱。
+qstr_{s1}_has_cast_Gork_w|{s1} 已 施 放 搞 哥 会 收 拾 它。附 近 的 {s4} 部 队 特 殊 能 力 被 削 弱，附 近 的 {s5} 地 精 获 得 闪 避。
+qstr_{s1}_has_cast_Gork_wi|{s1} 已 施 放 搞 哥 会 收 拾 它。附 近 的 {s4} 部 队 特 殊 能 力 被 削 弱。
 qstr_Your_attempt_to_cast_Shr|你 尝 试 施 放 夜 幕 笼 罩 失 败。
 qstr_{s1}s_attempt_to_cast_Shr|{s1}尝 试 施 放 夜 幕 笼 罩 失 败。
-qstr_{s1}_has_cast_Shroud|{s1} 已 施 放 帷 幕。{s3} 远 程 精 度 被 削 弱。
+qstr_{s1}_has_cast_Shroud|{s1} 已 施 放 夜 幕 笼 罩。{s3}的 远 程 精 度 降 低。
 qstr_Your_attempt_to_cast_curs|你 尝 试 施 放 恶 月 诅 咒 失 败。
 qstr_{s1}s_attempt_to_cast_curse|{s1}尝 试 施 放 恶 月 诅 咒 失 败。
 qstr_{s1}s_attempt_to_cast_curse_|{s1}尝 试 施 放 恶 月 诅 咒 失 败。
@@ -1990,7 +1990,7 @@ qstr_Your_attempt_to_cast_ho|你 尝 试 施 放 狂 啸 战 风 失 败。
 qstr_{s1}s_attempt_to_cast_ho|{s1}尝 试 施 放 狂 啸 战 风 失 败。
 qstr_Your_attempt_to_cast_how|你 尝 试 施 放 狂 啸 战 风 失 败。
 qstr_{s1}s_attempt_to_cast_how|{s1}尝 试 施 放 狂 啸 战 风 失 败。
-qstr_{s1}_has_cast_howlin|{s1}施 放 了 狂 啸 战 风。{s3}射 击 精 度 和 移 速 减 弱
+qstr_{s1}_has_cast_howlin|{s1}施 放 了 呼 啸 次 元 狂 风。{s3}射 击 精 度 和 移 速 减 弱
 qstr_Your_attempt_to_cast_de|你 尝 试 施 放 死 亡 狂 暴 失 败。
 qstr_{s1}s_attempt_to_cast_de|{s1}尝 试 施 放 死 亡 狂 暴 失 败。
 qstr_{s1}_has_cast_death_f|{s1}施 放 了 死 亡 狂 暴。受 影 响 的{s2}部 队 移 动 和 战 斗 能 力 提 升
@@ -2001,7 +2001,7 @@ qstr_Your_attempt_to_cast_cr|你 尝 试 施 放 地 裂 术 失 败。
 qstr_{s1}s_attempt_to_cast_cr|{s1}尝 试 施 放 地 裂 术 失 败。
 qstr_Your_attempt_to_cast_pe|你 尝 试 施 放 致 命 吐 息 失 败。
 qstr_{s1}s_attempt_to_cast_pe|{s1}尝 试 施 放 致 命 吐 息 失 败。
-qstr_{s1}_has_cast_pestil|{s1}施 放 了 致 命 吐 息。受 影 响 的{s3}受 到 多 重 打 击 伤 害
+qstr_{s1}_has_cast_pestil|{s1}施 放 了 枯 萎 术。受 影 响 的{s3}受 到 多 重 打 击 伤 害
 qstr_Your_attempt_to_cast_Ma|你 尝 试 施 放 精 神 错 乱 失 败。
 qstr_{s1}s_attempt_to_cast_Ma|{s1}尝 试 施 放 精 神 错 乱 失 败。
 qstr_{s1}_has_cast_Madnes|{s1}施 放 了 精 神 错 乱。{s3}成 为 他 们 的 盟 友
@@ -2010,19 +2010,19 @@ qstr_{s1}s_attempt_to_cast_ble|{s1}尝 试 施 放 污 秽 赐 福 失 败。
 qstr_{s1}_has_cast_bless_|{s1}施 放 了 污 秽 赐 福。受 影 响 的{s2}部 队 受 到 瘟 疫 攻 击
 qstr_Your_attempt_to_cast_wit|你 尝 试 施 放 枯 萎 术 失 败。
 qstr_{s1}s_attempt_to_cast_wit|{s1}尝 试 施 放 枯 萎 术 失 败。
-qstr_{s1}_has_cast_wither|{s1} 已 施 放 衰 弱。附 近 {s2} 部 队 被 削 弱。
+qstr_{s1}_has_cast_wither|{s1} 已 施 放 枯 萎 术。附 近 的 {s2} 部 队 被 削 弱。
 qstr_Your_attempt_to_cast_Ve|你 尝 试 施 放 万 鼠 狂 潮 失 败。
 qstr_{s1}s_attempt_to_cast_Ve|{s1}尝 试 施 放 万 鼠 狂 潮 失 败。
 qstr_{s1}_has_cast_vermin|{s1}施 放 了 万 鼠 狂 潮。{reg4}氏 族 鼠 被 召 唤 到 你 的{s3}
 qstr_Your_attempt_to_cast_cl|你 尝 试 施 放 腐 化 云 雾 失 败。
 qstr_{s1}s_attempt_to_cast_cl|{s1}尝 试 施 放 腐 化 云 雾 失 败。
-qstr_{s1}_has_cast_cloud_|{s1} 已 经 施 放 了 腐 败 之 云。受 影 响 的 {s6} 部 队 若 检 定 失 败 则 受 到 伤 害
+qstr_{s1}_has_cast_cloud_|{s1} 已 经 施 放 了 腐 化 云 雾。受 影 响 的 {s6} 部 队 若 检 定 失 败 则 受 到 伤 害
 qstr_Your_attempt_to_cast_pla|你 尝 试 施 放 瘟 疫 失 败。
 qstr_{s1}s_attempt_to_cast_pla|{s1}尝 试 施 放 瘟 疫 失 败。
-qstr_{s1}_has_cast_plague._|{s1}施 放 了 瘟 疫。受 影 响 的{s2}部 队 受 到 伤 害 并 且 死 亡 后 可 能 导 致 瘟 疫 爆 发
+qstr_{s1}_has_cast_plague._|{s1}施 放 了 乌 西 里 安 的 复 仇 咒。受 影 响 的{s2}部 队 受 到 伤 害 并 且 死 亡 后 可 能 导 致 瘟 疫 爆 发
 qstr_Your_attempt_to_cast_Se|你 尝 试 施 放 塞 库 比 的 复 仇 咒 失 败。
 qstr_{s1}s_attempt_to_cast_Se|{s1}尝 试 施 放 塞 库 比 的 复 仇 咒 失 败。
-qstr_{s1}_has_cast_Sekhub|{s1}施 放 了 塞 库 比 的 复 仇 咒。受 影 响 的{s3}部 队 受 到 严 重 伤 害
+qstr_{s1}_has_cast_Sekhub|{s1}施 放 了 塞 库 比 的 愤 怒 咒。受 影 响 的{s3}部 队 受 到 严 重 伤 害
 qstr_Your_attempt_to_cast_Dj|你 尝 试 施 放 迦 德 拉 的 召 唤 咒 失 败。
 qstr_{s1}s_attempt_to_cast_Dj|{s1}尝 试 施 放 迦 德 拉 的 召 唤 咒 失 败。
 qstr_{s1}_has_resummoned_|{s1} 复 生 了 一 个 {s4}
@@ -2064,12 +2064,12 @@ qstr_{s1}s_attempt_to_cast_inv|{s1}尝 试 施 放 暴 风 雪 的 召 唤 失 �
 qstr_{s1}_has_cast_invoca|{s1}施 放 了 暴 风 雪 的 召 唤。{s3}远 程 精 度 和 装 填 速 度 减 弱
 qstr_Your_attempt_to_cast_mi|你 尝 试 施 放 冰 霜 侍 女 之 吻 失 败。
 qstr_{s1}s_attempt_to_cast_mi|{s1}尝 试 施 放 冰 霜 侍 女 之 吻 失 败。
-qstr_{s1}_has_cast_midwin|{s1}施 放 了 冰 霜 侍 女 之 吻。受 影 响 的{s2}部 队 受 到 伤 害。
+qstr_{s1}_has_cast_midwin|{s1}施 放 了 隆 冬 之 吻。受 影 响 的{s2}部 队 受 到 伤 害。
 qstr_Your_attempt_to_cast_fro|你 尝 试 施 放 冰 冻 皮 肤 失 败。
 qstr_{s1}s_attempt_to_cast_fro|{s1}尝 试 施 放 冰 冻 皮 肤 失 败。
 qstr_{s1}_has_cast_frozen|{s1}施 放 了 冰 冻 皮 肤。{s1}获 得 无 视 痛 苦
-qstr_{s1}_has_cast_frozen_|{s1} 已 经 施 放 了 冰 霜 皮 肤。{s1} 获 得 高 级 忽 略 痛 苦 和 6+魔 法 抗 性
-qstr_{s1}_has_cast_frozen_s|{s1} 已 经 施 放 了 冰 霜 皮 肤。{s1} 获 得 忽 略 痛 苦 和 6+魔 法 抗 性
+qstr_{s1}_has_cast_frozen_|{s1} 已 经 施 放 了 冰 冻 皮 肤。{s1} 获 得 高 级 忽 略 痛 苦 和 6+魔 法 抗 性
+qstr_{s1}_has_cast_frozen_s|{s1} 已 经 施 放 了 冰 冻 皮 肤。{s1} 获 得 忽 略 痛 苦 和 6+魔 法 抗 性
 qstr_Your_attempt_to_cast_ir|你 尝 试 施 放 钢 铁 皮 肤 失 败。
 qstr_{s1}s_attempt_to_cast_ir|{s1}尝 试 施 放 钢 铁 皮 肤 失 败。
 qstr_{s1}_has_cast_iron_s|{s1}施 放 了 钢 铁 皮 肤。{s1}获 得 伤 害 抗 性
@@ -2087,10 +2087,10 @@ qstr_{s1}s_attempt_to_cast_curse_of|{s1}尝 试 施 放 灯 神 的 诅 咒 失 
 qstr_{s1}_has_cast_curse_of_the_g|{s1}施 放 了 灯 神 的 诅 咒。受 影 响 的{s2}部 队 有 50%几 率 造 成 额 外 伤 害
 qstr_Your_attempt_to_cast_da|你 尝 试 施 放 舞 蹈 弯 刀 失 败。
 qstr_{s1}s_attempt_to_cast_da|{s1}尝 试 施 放 舞 蹈 弯 刀 失 败。
-qstr_{s1}_has_cast_dancin|{s1}施 放 了 舞 蹈 弯 刀。附 近{s2}部 队 的 战 斗 能 力 增 强 且 获 得 强 化 闪 避。
+qstr_{s1}_has_cast_dancin|{s1}施 放 了 舞 动 弯 刀。附 近{s2}部 队 的 战 斗 能 力 增 强 且 获 得 强 化 闪 避。
 qstr_Your_attempt_to_cast_sun|你 尝 试 施 放 炎 阳 射 击 失 败。
 qstr_{s1}s_attempt_to_cast_sun|{s1}尝 试 施 放 炎 阳 射 击 失 败。
-qstr_{s1}_has_cast_sun_st|{s1}施 放 了 炎 阳 射 击。受 影 响 的{s2}部 队 受 到 伤 害
+qstr_{s1}_has_cast_sun_st|{s1}施 放 了 烈 日 打 击。受 影 响 的{s2}部 队 受 到 伤 害
 qstr_Your_attempt_to_cast_hol|你 尝 试 施 放 神 圣 之 怒 失 败。
 qstr_{s1}s_attempt_to_cast_hol|{s1}尝 试 施 放 神 圣 之 怒 失 败。
 qstr_{s1}_has_cast_holy_wr|{s1}施 放 了 神 圣 之 怒。受 影 响 的{s2}部 队 伤 害 提 高
@@ -2102,10 +2102,10 @@ qstr_{s1}s_attempt_to_cast_di|{s1}尝 试 施 放 神 圣 疗 愈 失 败。
 qstr_{s1}_has_cast_divine_|{s1}施 放 了 神 圣 疗 愈。受 影 响 的{s2}部 队 获 得 生 命 回 复
 qstr_Your_attempt_to_cast_Fe|你 尝 试 施 放 狂 热 征 服 失 败。
 qstr_{s1}s_attempt_to_cast_Fe|{s1}尝 试 施 放 狂 热 征 服 失 败。
-qstr_{s1}_has_cast_Fervid|{s1} 已 经 施 放 了 狂 热 奴 役。所 有 {s2} 野 兽 人 部 队 窃 取 附 近 敌 人 的 强 力 打 击
+qstr_{s1}_has_cast_Fervid|{s1} 已 经 施 放 了 狂 热 征 服。所 有 {s2} 野 兽 人 部 队 窃 取 附 近 敌 人 的 强 力 打 击
 qstr_Your_attempt_to_cast_the_o|你 尝 试 施 放 蛮 牛 激 励 失 败。
 qstr_{s1}s_attempt_to_cast_the_o|{s1}尝 试 施 放 蛮 牛 激 励 失 败。
-qstr_{s1}_has_cast_The_Ox|{s1}施 放 了 蛮 牛 激 励。所 有{s2}的 勇 气 增 强，逃 跑 的 部 队 重 新 集 结。将 阻 止 一 次 攻 击，否 则 在 法 术 持 续 时 间 内，野 兽 人 的 生 命 值 将 降 至 0。
+qstr_{s1}_has_cast_The_Ox|{s1}施 放 了 公 牛 屹 立。所 有{s2}的 勇 气 增 强，逃 跑 的 部 队 重 新 集 结。将 阻 止 一 次 攻 击，否 则 在 法 术 持 续 时 间 内，野 兽 人 的 生 命 值 将 降 至 0。
 qstr_Your_attempt_to_cast_be|你 尝 试 施 放 兽 性 涌 动 失 败。
 qstr_{s1}s_attempt_to_cast_be|{s1}尝 试 施 放 兽 性 涌 动 失 败。
 qstr_{s1}_has_cast_bestial|{s1} 施 放 了 兽 性 涌 动。受 影 响 的 {s2} 部 队 速 度 提 升 
@@ -2114,10 +2114,10 @@ qstr_{s1}s_attempt_to_cast_dev|{s1}尝 试 施 放 退 化 术 失 败。
 qstr_{s1}_has_cast_devolv|{s1}施 放 了 退 化 术。附 近 受 影 响 的{s3}部 队 受 到 伤 害
 qstr_Your_attempt_to_cast_bra|你 尝 试 施 放 吼 啸 失 败。
 qstr_{s1}s_attempt_to_cast_bra|{s1}尝 试 施 放 吼 啸 失 败。
-qstr_{s1}_has_cast_bray_s|{s1}施 放 了 吼 啸。受 影 响 的{s3}部 队 受 到 伤 害。
+qstr_{s1}_has_cast_bray_s|{s1}施 放 了 兽 吼。受 影 响 的{s3}部 队 受 到 伤 害。
 qstr_Your_attempt_to_cast_tra|你 尝 试 施 放 弑 主 失 败。
 qstr_{s1}s_attempt_to_cast_tra|{s1}尝 试 施 放 弑 主 失 败。
-qstr_{s1}_has_cast_traito|{s1}施 放 了 弑 主。附 近 受 影 响 的{s3}部 队 下 马
+qstr_{s1}_has_cast_traito|{s1}施 放 了 叛 族 咒。附 近 受 影 响 的{s3}部 队 下 马
 qstr_Your_attempt_to_cast_ma|你 尝 试 施 放 戈 洛 克 披 风 失 败。
 qstr_{s1}s_attempt_to_cast_ma|{s1}尝 试 施 放 戈 洛 克 披 风 失 败。
 qstr_{s1}_has_cast_mantle|{s1}施 放 了 戈 洛 克 披 风。{s1}限 时 伤 害 提 高
@@ -2661,7 +2661,7 @@ qstr_{s1}_has_reached_160|{s1} 在 目 前 的 战 斗 中 已 经 使 160人 �
 qstr_{s1}_has_reached_170|{s1} 在 目 前 的 战 斗 中 已 经 使 170人 死 亡。没 有 什 么 能 阻 止 他。
 qstr_{s1}_has_reached_180|{s1} 在 目 前 的 战 斗 中 已 经 使 180人 死 亡。人 们 讲 述 了 他 的 英 勇 事 迹。
 qstr_{s1}_has_reached_190|{s1} 在 目 前 的 战 斗 中 已 经 使 190人 死 亡。敌 人 梦 想 着 他 的 垮 台。
-qstr_{s1}_has_surpassed_t|{s1} 超 越 了 兽 王 月 爪 保 持 的 400杀 已 知 记 录。截 图 发 到 大 闽 汉 化 群 里。
+qstr_{s1}_has_surpassed_t|{s1} 打 破 了 兽 王 月 爪 保 持 的 400次 击 杀 纪 录。你 可 以 截 图 炫 耀 了。
 qstr_{s1}_has_reached_{re|{s1} 在 目 前 的 战 斗 中 已 经 使 {reg1}人 死 亡。他 现 在 是 主 角。
 qstr_A_{s3}_has_been_summ|一 个 {s3} 被 {s4} 召 唤。
 qstr_Mana_boost_activated|法 力 强 化 已 激 活，将 影 响 下 一 次 施 法
