@@ -271,14 +271,14 @@ itm_potion_curing|祛 病 药 水
 itm_potion_curing_pl|祛 病 药 水
 itm_potion_instability|不 稳 定 药 水 
 itm_potion_instability_pl|不 稳 定 药 水 
-itm_potion_pain|痛 苦 药 水
-itm_potion_pain_pl|痛 苦 药 水
+itm_potion_pain|止 痛 药 水
+itm_potion_pain_pl|止 痛 药 水
 itm_potion_strength|力 量 药 水 
 itm_potion_strength_pl|力 量 药 水 
 itm_potion_toughness|韧 性 药 水 
 itm_potion_toughness_pl|韧 性 药 水 
-itm_potion_elemental|元 素 迅 捷 药 水
-itm_potion_elemental_pl|元 素 迅 捷 药 水
+itm_potion_elemental|迅 捷 药 水
+itm_potion_elemental_pl|迅 捷 药 水
 itm_potion_knowledge|智 慧 药 水 
 itm_potion_knowledge_pl|智 慧 药 水 
 itm_potion_disguise|伪 装 药 水
@@ -287,8 +287,8 @@ itm_ring_cheap|假 钻 戒
 itm_ring_cheap_pl|假 钻 戒 
 itm_ring_normal|钻 戒 
 itm_ring_normal_pl|钻 戒 
-itm_ring_rich|精 美 钻 戒
-itm_ring_rich_pl|精 美 钻 戒
+itm_ring_rich|绝 代 钻 戒
+itm_ring_rich_pl|绝 代 钻 戒
 itm_harp|竖 琴 
 itm_harp_pl|竖 琴 
 itm_arabyspices|阿 拉 比 香 料 
@@ -509,8 +509,8 @@ itm_blight|枯 萎 病
 itm_blight_pl|枯 萎 病
 itm_bolt_of_change|变 幻 之 箭 
 itm_bolt_of_change_pl|变 幻 之 箭 
-itm_treason_of_tzeentch|奸 奇 之 叛
-itm_treason_of_tzeentch_pl|奸 奇 之 叛
+itm_treason_of_tzeentch|奸 奇 之 谋
+itm_treason_of_tzeentch_pl|奸 奇 之 谋
 itm_blue_fire_of_tzeentch|奸 奇 蓝 焰 
 itm_blue_fire_of_tzeentch_pl|奸 奇 蓝 焰 
 itm_tzeentch_firestorm|奸 奇 火 焰 风 暴 
@@ -1377,8 +1377,8 @@ itm_scimitar|弯 刀
 itm_scimitar_pl|弯 刀 
 itm_scimitar_b|精 锐 弯 刀 
 itm_scimitar_b_pl|精 锐 弯 刀 
-itm_scimitar_regen|生 命 弯 刀
-itm_scimitar_regen_pl|生 命 弯 刀
+itm_scimitar_regen|夺 命 弯 刀
+itm_scimitar_regen_pl|夺 命 弯 刀
 itm_bec_de_corbin_a|战 锤 
 itm_bec_de_corbin_a_pl|战 锤 
 itm_sarranid_two_handed_mace_1|双 手 铁 头 锤
@@ -3627,8 +3627,8 @@ itm_witchhunt2|猎 巫 人 帽
 itm_witchhunt2_pl|猎 巫 人 帽 
 itm_master_witchhunt|猎 巫 人 帽 
 itm_master_witchhunt_pl|猎 巫 人 帽 
-itm_general_witchhunt|猎 巫 将 军 帽
-itm_general_witchhunt_pl|猎 巫 将 军 帽
+itm_general_witchhunt|猎 巫 人 帽
+itm_general_witchhunt_pl|猎 巫 人 帽
 itm_warrior_priest_headband|战 斗 牧 师 头 带 
 itm_warrior_priest_headband_pl|战 斗 牧 师 头 带 
 itm_wolf_cloak|白 狼 披 风 
