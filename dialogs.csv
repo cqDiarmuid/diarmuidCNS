@@ -3024,7 +3024,7 @@ dlga_id:deserter_barter_3a|好 吧，这 里 是 你 的 {reg5}金 币。
 dlga_id:deserter_barter_3b_2|我 没 带 那 么 多 钱。
 dlga_id:close_window_353|太 糟 了，我 们 只 好 把 你 卖 给 奴 隶 贩 子 了。
 dlga_id:close_window_354|嘿，这 并 不 难，对 吧？很 好，你 可 以 走 了。
-dlga_id:tavernkeeper_talk|日 安，尊 贵 的 {reg33?女 士 :先 生 }。需 要 些 什 么？
+dlga_id:tavernkeeper_talk|日 安，尊 贵 的{reg33?女 士 :先 生 }。需 要 些 什 么？
 dlga_id:tavernkeeper_talk_2|还 有 什 么 事 吗？
 dlga_id:tavernkeeper_deliver_wine|有 人 托 我 把 {reg9}单 位 的 {s4} 送 给 你。
 dlga_id:tavernkeeper_pretalk|总 算 来 了！我 的 存 货 几 乎 见 底。{s4} 的 货 款 已 经 预 付，不 过 这 是 给 你 的 {reg5}枚 金 币，应 该 足 够 支 付 报 酬。代 我 向 {s9} 问 好；下 次 同 {reg3?她 :他 } 做 生 意 时，我 会 替 你 美 言 几 句。
@@ -3229,7 +3229,7 @@ dlga_id:close_window_378|如 你 所 说 {reg33?夫 人 :先 生 }。请 原 谅
 dlga_id:farmer_from_bandit_village_5_2|我 们 只 是 穷 苦 农 民，{reg33?女 士:先 生}。强 盗 已 经 抢 走 了 我 们 在 世 上 的 大 部 分 东 西，但 我 们 愿 意 把 剩 下 的 一 切 与 你 分 享。如 果 你 帮 助 我 们，我 们 会 永 远 感 激 你。
 dlga_id:close_window.55|多 谢 您 愿 意 帮 我 们，{reg33?女 士:先 生}。把 那 些 强 盗 全 都 碾 碎！
 dlga_id:close_window.56|我 的 {reg33?女 士:大 人}……
-dlga_id:close_window.57|我 正 在 歇 息！自 己 去 打 你 的 仗。
+dlga_id:close_window.57|我 正 在 歇 息！别 来 烦 我。
 dlga_id:mercenary_tavern_talk_reject|{s46}
 dlga_id:close_window_379|那 算 了……
 dlga_id:mercenary_tavern_talk|需 要 雇 佣 兵 吗，{reg33?女 士:先 生}？^{reg3?我 和 {reg4?我 的 {reg3}名 同 伴:我 的 一 名 同 伴}:我} 正 在 找 雇 主。^只 要 {reg5}枚 金 币，{reg3?我 们 就:我 就} 为 你 效 力。^别 小 看 半 身 人 的 个 头，再 高 大 的 敌 人 也 照 样 能 放 倒。
