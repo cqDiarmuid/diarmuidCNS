@@ -3203,9 +3203,9 @@ qstr__The_village_is_bein|村 庄 已 遭 到 袭 击。
 qstr_Raise_some_dead.|复 活 一 些 死 者。
 qstr_Round_up_some_boys.|召 集 一 些 新 兵。
 qstr_Buy_some_slaves.|购 买 一 些 奴 隶。
-qstr_Recruit_volunteers.|招 募 志 愿 者。
-qstr_You_cannot_recruit_v|你 不 能 从 敌 对 阵 营 招 募 志 愿 者。
-qstr_You_cannot_currently|你 目 前 不 能 从 这 种 文 化 招 募 志 愿 者。
+qstr_Recruit_volunteers.|招 募 新 兵。
+qstr_You_cannot_recruit_v|你 不 能 从 敌 对 阵 营 招 募 新 兵。
+qstr_You_cannot_currently|你 目 前 不 能 从 这 种 文 化 招 募 新 兵。
 qstr_You_are_hostile_to_t|此 派 系 对 你 抱 有 敌 意 
 qstr_They_will_not_follow|介 于 你 的 种 族，没 人 愿 意 追 随 你
 qstr_Nobody_is_available_|没 有 人 可 加 入 你 的 队 伍 
