@@ -1122,7 +1122,7 @@ qstr_Mana_cost:_90^Casting_cost:_9^ty|法 力 消 耗：90^施 法 难 度：9^�
 qstr_Mana_cost:_40^Casting_cost:|法 力 消 耗：40^施 法 难 度：7^类 型：增 益 — 以 施 法 者 为 中 心，半 径 12-40m^效 果：友 军 武 器 速 度 提 高^魔 法 准 入 等 级：2^魔 法 熟 练 等 级：3^冷 却 时 间：60秒
 qstr_Mana_cost:_100^Casting_cost:_10^T|法 力 消 耗：100^施 法 难 度：10^类 型：光 环 范 围 伤 害 — 半 径 3-12m^生 效 条 件：50%几 率^效 果：所 有 混 沌 生 物 与 混 沌 追 随 者 立 即 死 亡^魔 法 准 入 等 级：6^魔 法 熟 练 等 级：8^冷 却 时 间：180秒
 qstr_{s11}^^YOUR_MAGIC_CO|{s11}^^你 的 魔 法 控 制 等 级 太 低 了 
-qstr_{s11}^^{s21}_cannot_|{s11}^{s21} 无 法 使 用 这 个！
+qstr_{s11}^^{s21}_cannot_|{s11}^{s21} 无 法 装 备 此 物 品！
 qstr_Move_here|移 动 到 这 里 
 qstr_View_notes|查 看 记 录 
 qstr_Accompany|随 行
