@@ -740,7 +740,7 @@ qstr_trainer|教 练
 qstr_surgery|手 术 
 qstr_+1_to_{s1}_while_in_|置 于 物 品 栏 中 时，{s1} +1。
 qstr_Leave_a_weapon_slot_|留 空 一 个 武 器 栏 位 以 在 战 斗 中 使 用 魔 法。^当 前 护 甲 重 量：{reg1}。
-qstr_Thick_Skinned:_Gives|厚 实 猪 皮：使 骑 手 的 无 视 疼 痛 阈 值 提 高 20% 
+qstr_Thick_Skinned:_Gives|厚 实 猪 皮：使 骑 手 的 无 视 痛 苦 阈 值 提 高 20% 
 qstr_Bounces_on_impact_an|撞 击 时 弹 跳，并 在 落 到 敌 方 步 兵 身 上 时 可 能 造 成 额 外 伤 害。
 qstr__for_NPCs_use_regula|（NPC只 能 使 用 常 规 次 元 石 弹 药）
 qstr_Hit_an_enemy_to_acti|击 中 敌 人 以 激 活 左 手 武 器（真 双 持）。^速 度 与 武 器 掌 握 技 能 成 正 比。^ 只 需 要 此 物 品
@@ -2471,9 +2471,9 @@ qstr_WARD_5|守 护 豁 免 5+：33%几 率 完 全 免 疫 一 次 攻 击
 qstr_This_{s2}_has_a_magic|这 个 {s2} 拥 有 5+守 护 豁 免。受 到 攻 击 时，有 33%几 率 完 全 免 疫 该 次 攻 击。
 qstr_WARD_6|守 护 豁 免 6+：16%几 率 完 全 免 疫 一 次 攻 击
 qstr_This_{s2}_has_a_magica|这 个 {s2} 拥 有 6+守 护 豁 免。受 到 攻 击 时，有 16%几 率 完 全 免 疫 该 次 攻 击。
-qstr_IGNORE_PAIN_{reg5}%|无 视 疼 痛：伤 害 减 免 {reg5}%
+qstr_IGNORE_PAIN_{reg5}%|无 视 痛 苦：伤 害 减 免 {reg5}%
 qstr_This_{s2}_has_amplif|这 个 {s2} 可 以 让 你 的 铁 骨 技 能 吸 收 掉 部 分 来 自 敌 方 的 伤 害。
-qstr_ADVANCED_IGNORE_PAIN|高 级 无 视 疼 痛：伤 害 减 免 {reg5}% 
+qstr_ADVANCED_IGNORE_PAIN|高 级 无 视 痛 苦：伤 害 减 免 {reg5}% 
 qstr_REGENERATE|再 生
 qstr_This_{s2}_heals_over|这 个 {s2} 会 随 时 间 恢 复 生 命 值，但 会 受 到 额 外 的 火 焰 伤 害。
 qstr_MIGHTY_BLOW|强 力 一 击
@@ -2498,7 +2498,7 @@ qstr_MAGIC_RESISTANCE_4|魔 法 抗 性 4+：50%几 率 完 全 免 疫 有 害 
 qstr_This_{s2}_has_a_magical_p|{s2} 拥 有 魔 法 抗 性。遭 受 有 害 法 术 影 响 时，有 50%几 率 完 全 免 疫 该 法 术 效 果。
 qstr_MAGIC_RESISTANCE_3|魔 法 抗 性 3+：66%几 率 完 全 免 疫 有 害 法 术 效 果
 qstr_This_{s2}_has_a_magical_pr|{s2} 拥 有 魔 法 抗 性。遭 受 有 害 法 术 影 响 时，有 66%几 率 完 全 免 疫 该 法 术 效 果。
-qstr_MASTER_IGNORE_PAIN_{|大 师 级 无 视 疼 痛：伤 害 减 免 {reg5}%
+qstr_MASTER_IGNORE_PAIN_{|大 师 级 无 视 痛 苦：伤 害 减 免 {reg5}%
 qstr_FOREST_SPIRIT|森 林 精 魂
 qstr_This_{s2}_is_a_spiri|这 个 {s2} 是 自 然 精 魂，有 17%的 几 率 忽 略 非 魔 法 武 器 的 伤 害。
 qstr_ETHEREAL|虚 体：6+物 理 豁 免
