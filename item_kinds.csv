@@ -2333,10 +2333,10 @@ itm_flintlock_pistol|燧 发 手 枪
 itm_flintlock_pistol_pl|燧 发 手 枪 
 itm_flintlock_pirate|海 盗 燧 发 手 枪 
 itm_flintlock_pirate_pl|海 盗 燧 发 手 枪 
-itm_flintlock_witch|猎 魔 人 手 枪 
-itm_flintlock_witch_pl|猎 魔 人 手 枪 
-itm_dual_witch|猎 魔 人 双 管 手 枪 
-itm_dual_witch_pl|猎 魔 人 双 管 手 枪 
+itm_flintlock_witch|猎 巫 人 手 枪 
+itm_flintlock_witch_pl|猎 巫 人 手 枪 
+itm_dual_witch|猎 巫 人 双 管 手 枪 
+itm_dual_witch_pl|猎 巫 人 双 管 手 枪 
 itm_short_pistol|黑 胡 子 手 枪 
 itm_short_pistol_pl|黑 胡 子 手 枪 
 itm_cavalry_pistol|骑 兵 手 枪 
@@ -8513,10 +8513,10 @@ itm_empire_bastard_sword_a|帝 国 大 剑
 itm_empire_bastard_sword_a_pl|帝 国 大 剑 
 itm_empire_bastard_sword_b|重 型 大 剑 
 itm_empire_bastard_sword_b_pl|重 型 大 剑 
-itm_witch_rapier|猎 魔 人 轻 剑 
-itm_witch_rapier_pl|猎 魔 人 轻 剑 
-itm_witch_sword|猎 魔 人 剑 
-itm_witch_sword_pl|猎 魔 人 剑 
+itm_witch_rapier|猎 巫 人 轻 剑 
+itm_witch_rapier_pl|猎 巫 人 轻 剑 
+itm_witch_sword|猎 巫 人 剑 
+itm_witch_sword_pl|猎 巫 人 剑 
 itm_empire_sword_two_handed_b|双 手 剑 
 itm_empire_sword_two_handed_b_pl|双 手 剑 
 itm_empire_sword_two_handed_a|帝 国 巨 剑 
