@@ -3190,7 +3190,7 @@ dlga_id:tavern_traveler_continue|这 是 100金 币。告 诉 我 你 都 知 �
 dlga_id:close_window_372|抱 歉 朋 友。我 没 兴 趣。
 dlga_id:close_window_373|好 了，我 知 道 的 都 已 告 诉 你。再 会。
 dlga_id:bookseller_talk|日 安，{reg33?女 士 :先 生 }。要 看 看 我 的 货 吗？
-dlga_id:bookseller_buy|好，让 我 看 看 你 有 什 么 书。
+dlga_id:bookseller_buy|好，让 我 看 看 你 有 什 么 好 东 西。
 dlga_id:book_trade_completed|当 然 {reg33?长 官:长 官}。
 dlga_id:bookseller_talk_2|还 有 别 的 事 吗？
 dlga_id:close_window_374|没 什 么，谢 谢。
