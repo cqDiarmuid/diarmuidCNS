@@ -1641,17 +1641,17 @@ qstr_Your_attempt_to_cast_M|你 尝 试 施 放 梅 尔 克 斯 的 迷 魂 毒 
 qstr_{s1}_has_cast_Melkoth|{s1}施 放 了 梅 尔 克 斯 的 迷 魂 毒 瘴。附 近 的{s2}部 队 多 个 属 性 下 降
 qstr_Your_attempt_to_cast_the_e|你 尝 试 施 放 虚 弱 术 失 败。
 qstr_{s1}s_attempt_to_cast_the_e|{s1}尝 试 施 放 虚 弱 术 失 败。
-qstr_{s1}_has_cast_the_en|{s1}施 放 了 虚 弱 术。附 近{s3}部 队 伤 害 减 弱
+qstr_{s1}_has_cast_the_en|{s1}施 放 了 虚 弱 术。附 近 部 队 伤 害 减 弱
 qstr_Your_attempt_to_cast_the_w|你 尝 试 施 放 凋 零 术 失 败。
 qstr_{s1}s_attempt_to_cast_the_w|{s1}尝 试 施 放 凋 零 术 失 败。
-qstr_{s1}_has_cast_the_wi|{s1}施 放 了 凋 零 术。附 近{s3}部 队 被 虚 弱 了。
+qstr_{s1}_has_cast_the_wi|{s1}施 放 了 凋 零 术。附 近 部 队 被 虚 弱 了。
 qstr_Your_attempt_to_cast_sh|你 尝 试 施 放 暗 影 箭 失 败。
 qstr_{s1}s_attempt_to_cast_sh|{s1}尝 试 施 放 暗 影 箭 失 败。
 qstr_ally|友 军 
-qstr_{s1}_has_cast_shadow|{s1}施 放 了 暗 影 箭。受 影 响 的{s3}部 队 受 到 严 重 伤 害
+qstr_{s1}_has_cast_shadow|{s1}施 放 了 暗 影 箭。受 影 响 的 部 队 受 到 严 重 伤 害
 qstr_Your_attempt_to_cast_Tr|你 尝 试 施 放 塔 恩 的 叛 徒 失 败。
 qstr_{s1}s_attempt_to_cast_Tr|{s1}尝 试 施 放 塔 恩 的 叛 徒 失 败。
-qstr_{s1}_has_cast_Traito|{s1}施 放 了 塔 恩 的 叛 徒。{s3}成 为 他 们 的 盟 友
+qstr_{s1}_has_cast_Traito|{s1}施 放 了 塔 恩 的 叛 徒。受 影 响 的 部 队 成 为 他 的 盟 友
 qstr_Your_attempt_to_cast_St|你 尝 试 施 放 阴 影 骏 马 失 败。
 qstr_{s1}s_attempt_to_cast_St|{s1}尝 试 施 放 阴 影 骏 马 失 败。
 qstr_Your_attempt_to_cast_Ra|你 尝 试 施 放 普 特 罗 斯 之 辉 失 败。
