@@ -1542,7 +1542,7 @@ qstr_Your_attempt_to_cast_R|你 尝 试 施 放 海 希 之 辉 失 败。
 qstr_{s1}s_attempt_to_cast_R|{s1}尝 试 施 放 海 希 之 辉 失 败。
 qstr_Your_venom_has_been_|你 的 毒 素 已 被 治 愈。
 qstr_You_are_no_longer_su|你 不 再 遭 受 中 毒 效 果。
-qstr_{s1}_has_cast_Radian|{s1}施 放 了 海 希 之 辉。所 有 {s2}部 队 的 勇 气 提 高，溃 逃 部 队 重 整，并 清 除 所 有 中 毒 和 毒 素 效 果。
+qstr_{s1}_has_cast_Radian|{s1}施 放 了 海 希 之 辉。所 有 友 方 部 队 的 勇 气 提 高，溃 逃 部 队 重 整，并 清 除 所 有 中 毒 和 毒 素 效 果。
 qstr_Your_attempt_to_cast_Sh|你 尝 试 施 放 闪 耀 斗 篷 失 败。
 qstr_{s1}s_attempt_to_cast_Sh|{s1}尝 试 施 放 闪 耀 斗 篷 失 败。
 qstr_{s1}s_attempt_to_cast_Shi|{s1}尝 试 施 放 闪 耀 斗 篷 失 败。
@@ -1550,7 +1550,7 @@ qstr_{s1}_has_cast_Shimme|{s1}施 放 了 闪 耀 斗 篷。斗 篷 有 83%几 �
 qstr_Your_attempt_to_cast_N|你 尝 试 施 放 阿 明 托 克 之 网 失 败。
 qstr_{s1}s_attempt_to_cast_N|{s1}尝 试 施 放 阿 明 托 克 之 网 失 败。
 qstr_Your_attempt_to_cast_Ne|你 尝 试 施 放 阿 明 托 克 之 网 失 败。
-qstr_{s1}_has_cast_Net_of|{s1}施 放 了 阿 明 托 克 之 网。受 影 响 的{s2}部 队 移 速 和 射 击 精 度 减 弱。
+qstr_{s1}_has_cast_Net_of|{s1}施 放 了 阿 明 托 克 之 网。受 影 响 的 敌 方 部 队 移 速 和 射 击 精 度 减 弱。
 qstr_{s1}_has_cast_Net_of_|{s1}施 放 了 阿 明 托 克 之 网。受 影 响 的 敌 军 部 队 若 强 击 检 定 失 败，移 动 速 度 和 远 程 精 度 将 降 低。
 qstr_Your_attempt_to_cast_b|你 尝 试 施 放 放 逐 之 光 失 败。
 qstr_{s1}s_attempt_to_cast_b|{s1}尝 试 施 放 放 逐 之 光 失 败。
@@ -1659,10 +1659,10 @@ qstr_{s1}s_attempt_to_cast_Ra|{s1}尝 试 施 放 普 特 罗 斯 之 辉 失 �
 qstr_{s1}_has_cast_Radianc|{s1} 施 放 了 普 特 罗 斯 之 辉，获 得 远 程 伤 害 防 护。
 qstr_Your_attempt_to_cast_pi|你 尝 试 施 放 幽 暗 深 渊 失 败。
 qstr_{s1}s_attempt_to_cast_pi|{s1}尝 试 施 放 幽 暗 深 渊 失 败。
-qstr_{s1}_has_cast_pit_of_|{s1} 施 放 了 幽 暗 深 渊。受 影 响 的 {s2} 部 队 若 敏 捷 检 定 失 败 则 死 亡。
+qstr_{s1}_has_cast_pit_of_|{s1} 施 放 了 幽 暗 深 渊。受 影 响 的 敌 方 部 队 若 敏 捷 检 定 失 败 则 死 亡。
 qstr_Your_attempt_to_cast_O|你 尝 试 施 放 奥 卡 姆 的 心 灵 剃 刀 失 败。
 qstr_{s1}s_attempt_to_cast_O|{s1}尝 试 施 放 奥 卡 姆 的 心 灵 剃 刀 失 败。
-qstr_{s1}_has_cast_Okkams|{s1}施 放 了 奥 卡 姆 的 心 灵 剃 刀。附 近{s3}部 队 基 于 施 法 者 的 领 导 技 能 获 得 伤 害 提 升。
+qstr_{s1}_has_cast_Okkams|{s1}施 放 了 奥 卡 姆 的 心 灵 剃 刀。附 近 友 方 部 队 基 于 施 法 者 的 领 导 技 能 获 得 伤 害 提 升。
 qstr_Your_attempt_to_cast_Spe|你 尝 试 施 放 莱 科 斯 的 速 度 失 败。
 qstr_{s1}s_attempt_to_cast_Sp|{s1}尝 试 施 放 莱 科 斯 的 速 度 失 败。
 qstr_{s1}_has_cast_Speed_o|{s1}施 放 了 莱 科 斯 的 速 度。他 们 传 送 到 战 场 的 另 一 个 地 方
